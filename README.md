@@ -16,5 +16,5 @@ Copy response and save it
 
 Parse the xml into a json, http://www.utilities-online.info/xmltojson/
 
-Parse json in component.
+Run paarse-transcript-json.js
 
