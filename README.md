@@ -1,3 +1,9 @@
+Demo:
+
+http://ramsayshotones.raptorsfries.ca/
+
+To extract text from any youtube video:
+
 Open youtube video.
 
 Inspect network requests.
@@ -8,9 +14,7 @@ Look for https://www.youtube.com/api/timedtext?expire=1548621961&v=U9DyHthJ6LA&a
 
 Copy response and save it
 
-Parse the xml into a json.
+Parse the xml into a json, http://www.utilities-online.info/xmltojson/
 
-http://www.utilities-online.info/xmltojson/
-
-Parse json in component.
+Run paarse-transcript-json.js
 
