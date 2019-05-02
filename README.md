@@ -1,7 +1,7 @@
 Demo:
 
 ![screenshot](screenshot.png)
-http://ramsayshotones.raptorsfries.ca/
+https://projects.willchou.dev/ramsays-hotones/index.html
 
 To extract text from any youtube video:
 
@@ -17,5 +17,5 @@ Copy response and save it
 
 Parse the xml into a json, http://www.utilities-online.info/xmltojson/
 
-Run paarse-transcript-json.js
+Run parse-transcript-json.js
 
