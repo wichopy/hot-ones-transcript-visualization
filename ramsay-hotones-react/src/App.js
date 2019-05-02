@@ -173,6 +173,9 @@ class App extends Component {
     return (
       <div className="App">
         <ReactECharts option={swearWordOptions} />
+        <div>
+          <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=U9DyHthJ6LA" >Link to video</a>
+        </div>
       </div>
     );
   }
